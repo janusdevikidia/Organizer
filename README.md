@@ -16,13 +16,18 @@
 
 ## 🛠️ Installation Locale
 
-1.  **Cloner le dépôt :**
+1. Créer une web app sur Pythonanywhere en choisissant Flask et Python.
+
+2.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/janusdevikidia/Organizer.git](https://github.com/janusdevikidia/Organizer.git)
-    cd Organizer
+    git clone https://github.com/janusdevikidia/Organizer.git
     ```
 
-2.  **Installer les dépendances :**
+3.  **Installer les dépendances :**
     ```bash
     pip install flask flask-sqlalchemy
     ```
+
+4. Déplacer le fichier flask_app.py de ce dépôt dans /mysite
+
+5. Reload l'App web
