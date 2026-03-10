@@ -1,10 +1,10 @@
-# 🚀 Organizer
+# Organizer
 
 **Organizer** est une application web légère et compaticle mobile développée avec Flask. Elle permet de gérer vos tâches quotidiennes et vos notes avec une interface moderne en "Glassmorphism".
 
 ---
 
-## ✨ Fonctionnalités clés
+## Fonctionnalités clés
 
 * **Algorithme Smart Score :** Vos tâches sont automatiquement triées. Les urgences et les retards remontent dynamiquement en haut de la liste.
 * **Interface Responsive :** Design optimisé pour mobile avec une barre de navigation basse et des effets visuels modernes.
